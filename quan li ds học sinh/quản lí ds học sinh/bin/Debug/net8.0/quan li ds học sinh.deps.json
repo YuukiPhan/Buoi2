@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "quan li ds học sinh/1.0.0": {
+        "runtime": {
+          "quan li ds học sinh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "quan li ds học sinh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
