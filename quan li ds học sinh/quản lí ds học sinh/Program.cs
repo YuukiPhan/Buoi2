@@ -12,7 +12,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Tạo danh sách học sinh (giữ nguyên phần này)
+        // Tạo danh sách học sinh
         List<Student> students = new List<Student>
 {
     new Student { Masosv = 001, Name = "An", Age = 18 },
@@ -22,7 +22,7 @@ class Program
     new Student { Masosv = 005, Name = "Em", Age = 15 }
 };
         // a. In danh sách toàn bộ học sinh
-        Console.WriteLine("Danh sách toàn bộ sinh viên:");
+        Console.WriteLine("Danh sách toàn bo sinh viên:");
         foreach (var student in students)
         {
             Console.WriteLine($"Masosv: {student.Masosv}, Tên: {student.Name}, Tuoi: {student.Age}");
